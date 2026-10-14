@@ -1,0 +1,6 @@
+{
+  "name": "Email Harvester",
+  "description": "High-speed email harvester and lead discovery platform with quality scoring, seed crawling, and search backends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
